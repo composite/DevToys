@@ -153,4 +153,13 @@
   <data name="Uppercase" xml:space="preserve">
     <value>대문자 사용</value>
   </data>
+  <data name="SearchKeywords" xml:space="preserve">
+    <value>Checksum</value>
+  </data>
+  <data name="HashesMatch" xml:space="preserve">
+    <value>The hashes are the same.</value>
+  </data>
+  <data name="HashesMismatch" xml:space="preserve">
+    <value>The hashes are different.</value>
+  </data>
 </root>

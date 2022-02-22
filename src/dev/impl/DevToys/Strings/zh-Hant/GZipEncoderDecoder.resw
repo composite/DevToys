@@ -118,65 +118,48 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AccessibleName" xml:space="preserve">
-    <value>Zahlensystem Konvertierungswerkzeug</value>
+    <value>GZip 編碼及解碼工具</value>
   </data>
-  <data name="BinaryLabel" xml:space="preserve">
-    <value>Binär</value>
+  <data name="Ascii" xml:space="preserve">
+    <value>ASCII</value>
   </data>
   <data name="ConfigurationTitle" xml:space="preserve">
-    <value>Konfiguration</value>
+    <value>設定</value>
   </data>
-  <data name="DecimalLabel" xml:space="preserve">
-    <value>Dezimal</value>
+  <data name="ConversionDecompress" xml:space="preserve">
+    <value>解壓縮</value>
+  </data>
+  <data name="ConversionDescription" xml:space="preserve">
+    <value>選擇要對輸入內容進行壓縮或解壓縮</value>
+  </data>
+  <data name="ConversionCompress" xml:space="preserve">
+    <value>壓縮</value>
+  </data>
+  <data name="ConversionTitle" xml:space="preserve">
+    <value>GZip 編碼/解碼</value>
   </data>
   <data name="MenuDisplayName" xml:space="preserve">
-    <value>Zahlensystem</value>
+    <value>GZip</value>
   </data>
-  <data name="Format" xml:space="preserve">
-    <value>Formatiere eine Zahl</value>
+  <data name="EncodingDescription" xml:space="preserve">
+    <value>選擇要對輸入內容進行壓縮或解壓縮</value>
   </data>
-  <data name="HexadecimalLabel" xml:space="preserve">
-    <value>Hexadezimal</value>
+  <data name="EncodingTitle" xml:space="preserve">
+    <value>編碼</value>
   </data>
-  <data name="Input" xml:space="preserve">
-    <value>Eingabe</value>
+  <data name="InputTitle" xml:space="preserve">
+    <value>輸入</value>
   </data>
-  <data name="InputTypeBinary" xml:space="preserve">
-    <value>Binär</value>
+  <data name="OutputTitle" xml:space="preserve">
+    <value>輸出</value>
   </data>
-  <data name="InputTypeDecimal" xml:space="preserve">
-    <value>Dezimal</value>
-  </data>
-  <data name="InputTypeDescription" xml:space="preserve">
-    <value>Wähle aus welches Zahlensystem für die Eingabe verwendet werden soll.</value>
-  </data>
-  <data name="InputTypeHexadecimal" xml:space="preserve">
-    <value>Hexadezimal</value>
-  </data>
-  <data name="InputTypeOctal" xml:space="preserve">
-    <value>Oktal</value>
-  </data>
-  <data name="InputTypeTitle" xml:space="preserve">
-    <value>Eingabetyp</value>
-  </data>
-  <data name="OctalLabel" xml:space="preserve">
-    <value>Oktal</value>
-  </data>
-  <data name="ValueInvalid" xml:space="preserve">
-    <value>Der aktuelle Wert ist nicht zulässig {0}</value>
-    <comment>The parameter is the Base Number Type (Decimal, Octal, ...)</comment>
-  </data>
-  <data name="ValueOverflow" xml:space="preserve">
-    <value>Der aktuelle Wert kann nicht geparst werden, da er den Maximalwert überschreitet {0}</value>
-    <comment>Der Parameter hat den Maximalwert eines longs</comment>
+  <data name="Utf8" xml:space="preserve">
+    <value>UTF-8</value>
   </data>
   <data name="Description" xml:space="preserve">
-    <value>Zahlen von einem System in ein anderes umrechnen</value>
+    <value>壓縮或解壓縮字串</value>
   </data>
   <data name="SearchDisplayName" xml:space="preserve">
-    <value>Zahlensystem Konvertierer</value>
-  </data>
-  <data name="SearchKeywords" xml:space="preserve">
-    <value>Binary Octal Decimal Hexadecimal</value>
+    <value>GZip 編碼 / 解碼</value>
   </data>
 </root>
